@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+This is my repo with a variety of things I have completed or am currently working on.
 
 <!--
 **prasky-07/prasky-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
